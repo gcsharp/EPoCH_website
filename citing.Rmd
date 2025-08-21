@@ -1,9 +1,9 @@
 ---
-title: 'Using in your own research'
+title: ''
 output: html_document
 ---
 
-![](docs/logo.png){width="246"}
+![](logo.png){width="246"}
 
 # Using in your own research
 
