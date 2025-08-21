@@ -15,7 +15,7 @@ The study uses data from four longitudinal cohort studies:
 
 -   Born in Bradford (BiB)
 
--   The Norwegian Mother, Father and Child study (MoBA)
+-   The Norwegian Mother, Father and Child study (MoBa)
 
 -   Millennium Cohort Study (MCS)
 
