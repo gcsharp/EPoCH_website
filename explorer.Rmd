@@ -10,3 +10,7 @@ output: html_document
 EPoCH explorer is a web app providing interactive and customisable data visualisations, interpretations, and downloads to disseminate results from the EPoCH study. It is a useful tool for research and it can also serve as an aid for teaching about causal inference and triangulation of evidence garnered from observational data.
 
 Click here to access [EPoCH Explorer](https://gcsharp.shinyapps.io/EPoCH/).
+
+The code to create EPoCH Explorer is available on [GitHub](https://github.com/gcsharp/EPoCH_results_app).
+
+A description of the functionality of EPoCH Explorer is available [here](https://github.com/gcsharp/EPoCH_results_app/blob/main/README.md).

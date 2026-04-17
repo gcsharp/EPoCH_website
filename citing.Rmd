@@ -15,4 +15,4 @@ If you use results from EPoCH in your own research, please cite our paper:
 
 [*Gemma C Sharp, Deborah A Lawlor, Kayleigh E Easey, Sampurna Kundu, Ahmed Elhakeem, Edward Hone, Rosemary McEachan, Maria C Magnus, Alexandra Havdahl, Caroline L Relton; Exploring parental prenatal influences on child health: a multicohort study and data visualisation tool. medRxiv 2025.08.17.25333431; doi: https://doi.org/10.1101/2025.08.17.25333431*](https://doi.org/10.1101/2025.08.17.25333431)
 
-If you would like to contact the EPoCH research team, please email Gemma Sharp at [g.c.sharp\@exeter.ac.uk](mailto:g.c.sharp@exeter.ac.uk){.email}.
+If you would like to contact the EPoCH research team, please email Gemma Sharp at [g.c.sharp@exeter.ac.uk](mailto:g.c.sharp@exeter.ac.uk){.email}.
